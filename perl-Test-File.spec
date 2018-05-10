@@ -4,7 +4,7 @@
 #
 Name     : perl-Test-File
 Version  : 1.443
-Release  : 1
+Release  : 2
 URL      : http://search.cpan.org/CPAN/authors/id/B/BD/BDFOY/Test-File-1.443.tar.gz
 Source0  : http://search.cpan.org/CPAN/authors/id/B/BD/BDFOY/Test-File-1.443.tar.gz
 Summary  : 'test file attributes'
