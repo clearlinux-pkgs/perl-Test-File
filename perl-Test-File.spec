@@ -4,7 +4,7 @@
 #
 Name     : perl-Test-File
 Version  : 1.443
-Release  : 3
+Release  : 4
 URL      : http://search.cpan.org/CPAN/authors/id/B/BD/BDFOY/Test-File-1.443.tar.gz
 Source0  : http://search.cpan.org/CPAN/authors/id/B/BD/BDFOY/Test-File-1.443.tar.gz
 Summary  : 'test file attributes'
@@ -73,7 +73,7 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.26.1/Test/File.pm
+/usr/lib/perl5/vendor_perl/5.28.0/Test/File.pm
 
 %files dev
 %defattr(-,root,root,-)
