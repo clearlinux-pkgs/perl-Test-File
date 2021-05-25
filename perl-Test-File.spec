@@ -4,7 +4,7 @@
 #
 Name     : perl-Test-File
 Version  : 1.448
-Release  : 25
+Release  : 26
 URL      : https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-File-1.448.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-File-1.448.tar.gz
 Summary  : 'test file attributes'
