@@ -4,7 +4,7 @@
 #
 Name     : perl-Test-File
 Version  : 1.448
-Release  : 26
+Release  : 27
 URL      : https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-File-1.448.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-File-1.448.tar.gz
 Summary  : 'test file attributes'
@@ -96,4 +96,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Test/File.pm
+/usr/lib/perl5/*
