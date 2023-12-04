@@ -5,7 +5,7 @@
 #
 Name     : perl-Test-File
 Version  : 1.993
-Release  : 31
+Release  : 32
 URL      : https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-File-1.993.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-File-1.993.tar.gz
 Summary  : 'test file attributes'
