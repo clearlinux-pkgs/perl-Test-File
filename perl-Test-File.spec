@@ -6,10 +6,10 @@
 # autospec commit: 94c6be0
 #
 Name     : perl-Test-File
-Version  : 1.993
-Release  : 36
-URL      : https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-File-1.993.tar.gz
-Source0  : https://cpan.metacpan.org/authors/id/B/BD/BDFOY/Test-File-1.993.tar.gz
+Version  : 1.994
+Release  : 37
+URL      : https://cpan.metacpan.org/authors/id/B/BR/BRIANDFOY/Test-File-1.994.tar.gz
+Source0  : https://cpan.metacpan.org/authors/id/B/BR/BRIANDFOY/Test-File-1.994.tar.gz
 Summary  : 'test file attributes'
 Group    : Development/Tools
 License  : Artistic-2.0
@@ -51,8 +51,8 @@ perl components for the perl-Test-File package.
 
 
 %prep
-%setup -q -n Test-File-1.993
-cd %{_builddir}/Test-File-1.993
+%setup -q -n Test-File-1.994
+cd %{_builddir}/Test-File-1.994
 
 %build
 export http_proxy=http://127.0.0.1:9/
