@@ -7,7 +7,7 @@
 #
 Name     : perl-Test-File
 Version  : 1.995
-Release  : 38
+Release  : 39
 URL      : https://cpan.metacpan.org/authors/id/B/BR/BRIANDFOY/Test-File-1.995.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BR/BRIANDFOY/Test-File-1.995.tar.gz
 Summary  : 'test file attributes'
